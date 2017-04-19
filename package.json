@@ -12,7 +12,7 @@
   "dependencies": {
     "consolidate": "^0.14.1",
     "debug": "^2.1.3",
-    "koa-send": "^4.0.0",
+    "koa-send": "git+https://github.com/xwillmadeit/send.git",
     "mz": "^2.4.0"
   },
   "devDependencies": {
